@@ -1,4 +1,4 @@
-package com.learnDesignPattern.flyweight.challenge;
+package com.learnDesignPattern.proxy.challenge;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.learnDesignPattern.flyweight.robotExample;
+package com.learnDesignPattern.proxy.robotExample;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

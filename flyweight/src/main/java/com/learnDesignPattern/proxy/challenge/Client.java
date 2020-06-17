@@ -1,4 +1,4 @@
-package com.learnDesignPattern.flyweight.challenge;
+package com.learnDesignPattern.proxy.challenge;
 
 import java.util.Random;
 
