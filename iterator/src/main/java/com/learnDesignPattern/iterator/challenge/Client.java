@@ -23,7 +23,5 @@ public class Client {
 
         print(scienceIterator);
         print(artsIterator);
-
-
     }
 }
